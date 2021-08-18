@@ -1,5 +1,5 @@
-### Hi there 👋, Nirban Chakraborty
-#### Development and design
+# Hi there 👋, Nirban Chakraborty
+### Development and design
 
 
 I am Nirban from India, currently learning Java. I am an active member of Coders-Evoke-Community, a student of BCA. I do web development, web design, a little bit of Graphic Designing, UI/UX design.

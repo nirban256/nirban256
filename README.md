@@ -13,6 +13,8 @@ Skills:  JS / HTML / CSS / Java / Sass
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirban256&show_icons=true)  
 
 
+## My Portfolio - (https://github.com/nirban256/nirban256/blob/main/Resume.pdf)
+
 
 ## Some of my works
 

@@ -51,9 +51,8 @@ Glassmorphism themed website - (https://nirban256.github.io/Glass-Website/)
 
 #### Graphic Design
 
+Sunset view in mountains - (https://dribbble.com/shots/15702801-Sunset)
 
-<img src="https://github.com/nirban256/nirban256/blob/main/Sunset-01.png" width = 300 height = 300>   
-<img src = "https://github.com/nirban256/nirban256/blob/main/SCENERY-01.png" width = 300 height = 300>
-
+A vector art of a scenery - (https://dribbble.com/shots/15658956-SCENERY-01)
 
 ## Thank You for visiting my profile!

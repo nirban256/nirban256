@@ -39,14 +39,21 @@
 
 #### Web Development
 
+Microsoft Home Page clone - (https://nirban256.github.io/Microsoft-clone-page/)
 
-<img src="https://github.com/nirban256/nirban256/blob/main/screencapture-file-C-HTML-CSS-JAVASCRIPT-Projects-100daysofcode-clipboard-landing-page-master-index-html-2021-08-19-10_11_30.png" width = 450 height = 1200>   <img src="https://github.com/nirban256/nirban256/blob/main/screencapture-file-C-HTML-CSS-JAVASCRIPT-Projects-100daysofcode-fylo-dark-theme-landing-page-master-index-html-2021-08-19-10_09_09.png" width = 450 height = 1200>   <img src="https://github.com/nirban256/nirban256/blob/main/screencapture-file-C-HTML-CSS-JAVASCRIPT-Projects-100daysofcode-four-card-feature-section-master-index-html-2021-08-19-10_12_05.png" width = 900 height = 700>
+A website with little animation - (https://nirban256.github.io/mockup-website/)
+
+Website made with Boot Strap - (https://nirban256.github.io/Bootstrap-website/)
+
+Glassmorphism themed website - (https://nirban256.github.io/Glass-Website/)
+
 
 
 #### Graphic Design
 
 
-<img src="https://github.com/nirban256/nirban256/blob/main/Sunset-01.png" width = 300 height = 300>   <img src = "https://github.com/nirban256/nirban256/blob/main/SCENERY-01.png" width = 300 height = 300>
+<img src="https://github.com/nirban256/nirban256/blob/main/Sunset-01.png" width = 300 height = 300>   
+<img src = "https://github.com/nirban256/nirban256/blob/main/SCENERY-01.png" width = 300 height = 300>
 
 
 ## Thank You for visiting my profile!

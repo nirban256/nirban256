@@ -45,7 +45,7 @@ A website with little animation - (https://nirban256.github.io/mockup-website/)
 
 Website made with Boot Strap - (https://nirban256.github.io/Bootstrap-website/)
 
-Glassmorphism themed website - (https://nirban256.github.io/Glass-Website/)
+A landing page - (https://nirban256.github.io/Huddle-landing-page/)
 
 
 

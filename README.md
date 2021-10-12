@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://github.com/nirban256/nirban256/blob/main/Resume.pdf](https://github.com/nirban256/nirban256/blob/main/Resume.pdf)
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

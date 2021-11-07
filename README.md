@@ -54,4 +54,4 @@ Sunset view in mountains - (https://dribbble.com/shots/15702801-Sunset)
 
 A vector art of a scenery - (https://dribbble.com/shots/15658956-SCENERY-01)
 
-## Thank You for visiting my profile!
+## Have a nice day!

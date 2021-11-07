@@ -44,7 +44,7 @@ A website with little animation - (https://nirban256.github.io/mockup-website/)
 
 Website made with Boot Strap - (https://nirban256.github.io/Bootstrap-website/)
 
-A landing page - (https://nirban256.github.io/Huddle-landing-page/)
+A landing page made with Sass(Css pre-processor) - (https://nirban256.github.io/Huddle-landing-page-curved-section/)
 
 
 

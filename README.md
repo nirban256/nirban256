@@ -1,4 +1,3 @@
-[Nirban_Chakraborty_resume.pdf](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
 <h1 align="center">Hi 👋, I'm Nirban</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -31,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirban256&show_icons=true&locale=en" alt="nirban256" /></p>
 
 
-## My Portfolio - (https://github.com/nirban256/nirban256/blob/main/Resume.pdf)
+## [My_resume.pdf](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
 
 
 ## Some of my works

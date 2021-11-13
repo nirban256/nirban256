@@ -1,3 +1,4 @@
+[Nirban_Chakraborty_resume.pdf](https://github.com/nirban256/nirban256/files/7531310/Nirban_Chakraborty_resume.pdf)
 <h1 align="center">Hi 👋, I'm Nirban</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

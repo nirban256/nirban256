@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/nirban256/personal_website)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Web3.0-Solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nirban256?tab=repositories](https://github.com/nirban256?tab=repositories)
 

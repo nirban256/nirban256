@@ -40,9 +40,9 @@
 
 #### Web Development
 
-Open AI landing page made with ReactJS - (https://open-ai-landingpage.netlify.app/)
+My Portfolio Website - (https://github.com/nirban256/personal_website)
 
-Microsoft Home Page clone - (https://nirban256.github.io/Microsoft-clone-page/)
+Open AI landing page made with ReactJS - (https://open-ai-landingpage.netlify.app/)
 
 A website with little animation - (https://nirban256.github.io/mockup-website/)
 

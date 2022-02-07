@@ -46,8 +46,6 @@ My Portfolio Website - (https://github.com/nirban256/personal_website)
 
 Open AI landing page made with ReactJS - (https://open-ai-landingpage.netlify.app/)
 
-A website with little animation - (https://nirban256.github.io/mockup-website/)
-
 A landing page made with Sass(Css pre-processor) - (https://nirban256.github.io/Huddle-landing-page-curved-section/)
 
 

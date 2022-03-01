@@ -15,6 +15,10 @@
 
 ## [My portfolio website](https://nirban-chakraborty.netlify.app/)
 
+
+## [My_resume.pdf](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nirban256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nirban256" height="30" width="40" /></a>
@@ -32,9 +36,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirban256&show_icons=true&locale=en&layout=compact" alt="nirban256" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirban256&show_icons=true&locale=en" alt="nirban256" /></p>
-
-
-## [My_resume.pdf](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
 
 
 ## Some of my works

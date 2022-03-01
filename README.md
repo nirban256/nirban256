@@ -16,7 +16,7 @@
 ## [My portfolio website](https://nirban-chakraborty.netlify.app/)
 
 
-## [My_resume.pdf](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
+## [My resume](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>

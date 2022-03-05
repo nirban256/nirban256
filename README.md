@@ -15,10 +15,6 @@
 
 ## [My portfolio website](https://nirban-chakraborty.netlify.app/)
 
-
-## [My resume](https://github.com/nirban256/nirban256/files/7520013/Nirban_Chakraborty_resume.pdf)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nirban256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nirban256" height="30" width="40" /></a>

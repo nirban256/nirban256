@@ -48,6 +48,8 @@ NFT based game - (https://gck8sdx9taib.usemoralis.com/)
 
 NFT minting website - (https://rw2lijq0uwyh.usemoralis.com/)
 
+Task Manager - (https://github.com/nirban256/web3-todo)
+
 
 #### Graphic Design
 

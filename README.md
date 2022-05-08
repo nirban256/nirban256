@@ -35,13 +35,6 @@
 
 ## Some of my works
 
-#### Front End Development projects
-
-Dark themed Layout - (https://nirban256.github.io/fylo-dark-theme-layout/)
-
-A landing page made with Sass(Css pre-processor) - (https://nirban256.github.io/Huddle-landing-page-curved-section/)
-
-
 #### Web3 projects
 
 NFT based game - (https://gck8sdx9taib.usemoralis.com/)
@@ -49,6 +42,13 @@ NFT based game - (https://gck8sdx9taib.usemoralis.com/)
 NFT minting website - (https://rw2lijq0uwyh.usemoralis.com/)
 
 Task Manager - (https://github.com/nirban256/web3-todo)
+
+
+#### Front End Development projects
+
+Dark themed Layout - (https://nirban256.github.io/fylo-dark-theme-layout/)
+
+A landing page made with Sass(Css pre-processor) - (https://nirban256.github.io/Huddle-landing-page-curved-section/)
 
 
 #### Graphic Design

@@ -55,5 +55,8 @@ A landing page made with Sass(Css pre-processor) - (https://nirban256.github.io/
 Sunset view in mountains - (https://dribbble.com/shots/15702801-Sunset)
 
 A vector art of a scenery - (https://dribbble.com/shots/15658956-SCENERY-01)
+  
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Have a nice day!

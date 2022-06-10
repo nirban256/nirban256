@@ -59,4 +59,4 @@ A vector art of a scenery - (https://dribbble.com/shots/15658956-SCENERY-01)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Have a nice day!
+## Have a nice day 😃

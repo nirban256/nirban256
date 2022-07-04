@@ -43,9 +43,9 @@ NFT based game - (https://gck8sdx9taib.usemoralis.com/)
   
 Google Search clone app - (https://goggle-clone-by-nirban.netlify.app/)
 
-Dark themed Layout - (https://nirban256.github.io/fylo-dark-theme-layout/)
+Github profile search - (https://github-profile-search-by-nirban.netlify.app/)
 
-A landing page made with Sass(Css pre-processor) - (https://nirban256.github.io/Huddle-landing-page-curved-section/)
+Dark themed Layout - (https://nirban256.github.io/fylo-dark-theme-layout/)
 
 
 #### Graphic Design

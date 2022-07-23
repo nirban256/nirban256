@@ -48,13 +48,6 @@ Github profile search - (https://github-profile-search-by-nirban.netlify.app/)
 Dark themed Layout - (https://nirban256.github.io/fylo-dark-theme-layout/)
 
 
-#### Graphic Design
-
-Sunset view in mountains - (https://dribbble.com/shots/15702801-Sunset)
-
-A vector art of a scenery - (https://dribbble.com/shots/15658956-SCENERY-01)
-
-
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nirban256/nirban256/blob/main/devcard.svg" width="400" alt="Nirban Chakraborty's Dev Card"/></a>
   
 

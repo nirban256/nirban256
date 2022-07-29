@@ -45,8 +45,6 @@ Google Search clone app - (https://goggle-clone-by-nirban.netlify.app/)
 
 Github profile search - (https://github-profile-search-by-nirban.netlify.app/)
 
-Dark themed Layout - (https://nirban256.github.io/fylo-dark-theme-layout/)
-
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nirban256/nirban256/blob/main/devcard.svg" width="400" alt="Nirban Chakraborty's Dev Card"/></a>
   

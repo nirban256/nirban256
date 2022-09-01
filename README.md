@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://nirban-chakraborty.netlify.app)
 
-- 💬 Ask me about **Web Design and Frontend development**
+- 💬 Ask me about **Web3 and Frontend development**
 
 - 📫 How to reach me **nirban256@gmail.com**
 

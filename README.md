@@ -2,7 +2,7 @@
   <img src="./images/Developer.gif" width="200px">
 </p>
 
-<h1 align="center"> Hello <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://nirban-chakraborty.netlify.app"> Nirban Chakraborty </a> <img src=".images/Developer.gif" width="50px" height="50px"></h1>
+<h1 align="center"> Hello <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://nirban-chakraborty.netlify.app" target="_blank"> Nirban Chakraborty </a> <img src=".images/Developer.gif" width="50px" height="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/nirban256)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=nirban256.profileviews-badge)](https://github.com/nirban256)

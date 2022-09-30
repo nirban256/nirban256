@@ -51,17 +51,17 @@
 <h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello to me <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h4>
 
 <p align="center">
-  <code><a href="https://mail.google.com/mail/u/0/?fs=1&to=nirban256@gmail.com&tf=cm" target="_blank"> <img src="./images/Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
-  <code><a href="https://www.linkedin.com/in/nirban-chakraborty-382778191/" target="_blank"><img align="center" src="./images/linked(color).png" alt="Nirban's linkedin" width="30px" /></a></code>  
-  <code><a href="https://www.instagram.com/nirban_25/" target="_blank"><img align="center" src="./images/Instagram.png" alt="Nirban's Instagram" width="30px" /></a></code>
-  <code><a href="https://www.facebook.com/nirban.chakraborty.581/" target="_blank"><img align="center" src="./images/facebook%20(color).png" alt="Nirban's Facebook" width="30px" /></a></code>
-  <code><a href="https://twitter.com/NirbanChakrab10" target="_blank"><img align="center" src="./images/twitter(color).png" alt="Nirban's Twitter" width="30px" /></a></code>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=nirban256@gmail.com&tf=cm" target="_blank"> <img align="center" src="./images/Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nirban-chakraborty-382778191/" target="_blank"><img align="center" src="./images/linked(color).png" alt="Nirban's linkedin" width="30px" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nirban_25/" target="_blank"><img align="center" src="./images/Instagram.png" alt="Nirban's Instagram" width="30px" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/nirban.chakraborty.581/" target="_blank"><img align="center" src="./images/facebook%20(color).png" alt="Nirban's Facebook" width="30px" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/NirbanChakrab10" target="_blank"><img align="center" src="./images/twitter(color).png" alt="Nirban's Twitter" width="30px" /></a>&nbsp;&nbsp;
 </p>
 <p align="center">
-  <code><a href="https://github.com/nirban256" target="_blank"><img align="center" src="./images/github.png" alt="Nirban's GitHub" width="30px"/></a></code> 
-  <code><a href="https://hashnode.com/@Nirban" target="_blank"><img align="center" src="./images/hashnode.jpeg" alt="Nirban's Hashnode" width="30px"/></a></code>
-  <code><a href="https://stackoverflow.com/users/19888075/nirban-chakraborty" target="_blank"><img align="center" src="./images/StackOverflow.png" alt="Stack Overflow" width="25px"/></a></code>
-  <code><a href="https://leetcode.com/challenger882/" target="_blank"><img align="center" src="./images/LeetCode.png" alt="LeetCode" width="25px"/></a></code>
+  <a href="https://github.com/nirban256" target="_blank"><img align="center" src="./images/github.png" alt="Nirban's GitHub" width="30px"/></a>&nbsp;&nbsp; 
+  <a href="https://hashnode.com/@Nirban" target="_blank"><img align="center" src="./images/hashnode.jpeg" alt="Nirban's Hashnode" width="30px"/></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/19888075/nirban-chakraborty" target="_blank"><img align="center" src="./images/StackOverflow.png" alt="Stack Overflow" width="25px"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/challenger882/" target="_blank"><img align="center" src="./images/LeetCode.png" alt="LeetCode" width="30px"/></a>&nbsp;&nbsp;
 </p>
 
 <img align='center' height="70" alt="Thanks" width="100%" src="./images/marquee.svg"/>

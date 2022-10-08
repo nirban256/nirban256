@@ -35,17 +35,17 @@
 ### :zap: GitHub Stats
 <img src="./images/Line.gif">
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=nirban256&theme=radical&show_icons=true&locale=en" alt="nirban256" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=nirban256&theme=codeSTACKr&show_icons=true&locale=en" alt="nirban256" />
  </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirban256&theme=radical"><br>
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirban256&theme=vision-friendly-dark"><br>
   </a>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirban256&theme=radical&show_icons=true&locale=en&layout=compact" alt="nirban256" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirban256&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="nirban256" />
 </p>
 
 <h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello to me <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h4>

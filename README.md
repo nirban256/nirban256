@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirban256&theme=vision-friendly-dark"><br>
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirban256&theme=radical"><br>
   </a>
 </p>
 

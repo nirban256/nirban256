@@ -8,7 +8,10 @@
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=nirban256.profileviews-badge)](https://github.com/nirban256)
 
 
-### `Social Networks:`
+### :zap: Social Networks:
+
+<img src="./images/Line.gif">
+
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/nirban-chakraborty-382778191/)
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/nirban.chakraborty.581/)
 [![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/nirban_25/)
@@ -48,7 +51,9 @@
   <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirban256&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="nirban256" />
 </p>
 
-<h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello to me <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h4>
+<h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello to me <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h3>
+
+<img src="./images/Line.gif">
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=nirban256@gmail.com&tf=cm" target="_blank"> <img align="center" src="./images/Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a>&nbsp;&nbsp;

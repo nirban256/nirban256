@@ -51,6 +51,11 @@
   <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirban256&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="nirban256" />
 </p>
 
+### :zap: GitHub Badges
+<img src="./images/Line.gif">
+
+[![@nirban's Holopin board](https://holopin.io/api/user/board?user=nirban)](https://holopin.io/@nirban)
+
 <h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello to me <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h3>
 
 <img src="./images/Line.gif">

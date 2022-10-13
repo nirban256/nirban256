@@ -5,7 +5,7 @@
 <h1 align="center"> Hello <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://nirban-chakraborty.netlify.app" target="_blank"> Nirban Chakraborty </a> <img src=".images/Developer.gif" width="50px" height="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/nirban256)
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=nirban256.profileviews-badge)](https://github.com/nirban256)
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=nirban256.profileviews-badge)](https://github.com/nirban256)</p>
 
 
 ### :zap: Social Networks:
@@ -56,7 +56,7 @@
 
 [![@nirban's Holopin board](https://holopin.io/api/user/board?user=nirban)](https://holopin.io/@nirban)
 
-<h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello to me <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h3>
+<h3 align="center">Hey, Wait! <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to say hello <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h3>
 
 <img src="./images/Line.gif">
 

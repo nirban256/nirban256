@@ -21,7 +21,7 @@
 
 <br>
 
-- 🔭 I'm a Bachelor of Computer Applications(BCA) student.
+- 🔭 I'm a Master of Computer Applications(MCA) student.
 - 🌱 I’m currently working as a Blockchain Developer.
 - :zap: I’m currently learning Web3 Development.
 - 🎯 I’m focusing on Defi & NFT.

@@ -36,10 +36,6 @@
 
 
 ### :zap: GitHub Stats :bar_chart:
-<img src="./images/Line.gif">
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=nirban256&theme=codeSTACKr&show_icons=true&locale=en" alt="nirban256" />
- </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">

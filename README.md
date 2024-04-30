@@ -4,12 +4,16 @@
 
 <h1 align="center"> Hello <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://nirban-chakraborty.netlify.app" target="_blank"> Nirban Chakraborty </a> <img src=".images/Developer.gif" width="50px" height="50px"></h1>
 
-[![Hello programmer Welcome](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/nirban256)
-![](https://komarev.com/ghpvc/?username=nirban256)
+<br>
 
-### :zap: Social Networks :handshake:
+- 🔭 I'm a Master of Computer Applications(MCA) student.
+- 🌱 I have worked as a Blockchain Developer.
+- :zap: I’m currently learning Web3 Development.
+- 🎯 I’m focusing on Defi & NFT.
 
-<img src="./images/Line.gif">
+<br>
+
+## 🌐 Socials:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/nirban-chakraborty-382778191/)
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/nirban.chakraborty.581/)
@@ -20,59 +24,39 @@
 
 <br>
 
-- 🔭 I'm a Master of Computer Applications(MCA) student.
-- 🌱 I have worked as a Blockchain Developer.
-- :zap: I’m currently learning Web3 Development.
-- 🎯 I’m focusing on Defi & NFT.
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
-### :zap: My Tech Toolbox 🧰
-<img src="./images/Line.gif">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nirban256&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nirban256&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirban256&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--   #### 👨‍💻 Programming languages -->
-<p align="left"> <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="./images/solidity.png" alt="solidity" width="40" height="40"/> <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="./images/hardhat.svg" alt="hardhat" width="100" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nirban256&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nirban256&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nirban256&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### :zap: GitHub Stats :bar_chart:
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirban256&theme=radical"><br>
-  </a>
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirban256&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="nirban256" />
-</p>
-
-### :zap: Hacktoberfest Badges :name_badge:
-<img src="./images/Line.gif">
-
-[![@nirban's Holopin board](https://holopin.io/api/user/board?user=nirban)](https://holopin.io/@nirban)
-
-### :zap: GitHub Trophies :trophy:
-<img src="./images/Line.gif">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nirban256)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="center">Hey, Wait! :raised_hand_with_fingers_splayed: don't forget to say hello <img align="center" src="./images/Handshake.gif" width="30px" height="30px"></h3>
-
-<img src="./images/Line.gif">
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=nirban256@gmail.com&tf=cm" target="_blank"> <img align="center" src="./images/Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nirban-chakraborty-382778191/" target="_blank"><img align="center" src="./images/linked(color).png" alt="Nirban's linkedin" width="30px" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nirban_25/" target="_blank"><img align="center" src="./images/Instagram.png" alt="Nirban's Instagram" width="30px" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/nirban.chakraborty.581/" target="_blank"><img align="center" src="./images/facebook%20(color).png" alt="Nirban's Facebook" width="30px" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/NirbanChakrab10" target="_blank"><img align="center" src="./images/twitter(color).png" alt="Nirban's Twitter" width="30px" /></a>&nbsp;&nbsp;
-</p>
-<p align="center">
-  <a href="https://github.com/nirban256" target="_blank"><img align="center" src="./images/github.png" alt="Nirban's GitHub" width="30px"/></a>&nbsp;&nbsp; 
-  <a href="https://hashnode.com/@Nirban" target="_blank"><img align="center" src="./images/hashnode.jpeg" alt="Nirban's Hashnode" width="30px"/></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/19888075/nirban-chakraborty" target="_blank"><img align="center" src="./images/StackOverflow.png" alt="Stack Overflow" width="25px"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/challenger882/" target="_blank"><img align="center" src="./images/LeetCode.png" alt="LeetCode" width="30px"/></a>&nbsp;&nbsp;
-</p>
 
 <img align='center' height="70" alt="Thanks" width="100%" src="./images/marquee.svg"/>
 

@@ -8,8 +8,8 @@
 
 - 🔭 I'm a Master of Computer Applications(MCA) student.
 - 🌱 I have worked as a Blockchain Developer.
-- :zap: I’m currently learning Web3 Development.
-- 🎯 I’m focusing on Defi & NFT.
+- :zap: I’m currently learning Full Stack Development.
+- 🎯 I’m focusing on MERN stack.
 
 <br>
 

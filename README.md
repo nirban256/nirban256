@@ -67,7 +67,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/nirban256/nirban256/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/nirban256/nirban256/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/nirban256/nirban256/output/snake.svg#gh-dark-mode-only)
 
 ---
 

@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 - 🔭 Master of Computer Applications (MCA) student  
-- 🌱 Currently learning **Full Stack Development** (Next.js, Prisma, PostgreSQL)  
-- 🧑‍💻 Experience as a **Blockchain Developer**  
+- 🌱 Currently learning **Full Stack Development** (Next.js, React.js, Prisma, PostgreSQL, MongoDB)  
+- 🧑‍💻 Experience as a **Software Developer**  
 - 🎯 Working on: [AI Powered Productivity App](https://github.com/nirban256/ai_powered_productivity_app)  
 - ⚡ Passionate about **AI, Blockchain, and Scalable Systems**
 

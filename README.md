@@ -8,16 +8,15 @@
 </h1>
 
 <p align="center">
-  Aspiring Full Stack Developer | MCA Student | Blockchain Enthusiast
+  Full Stack Developer | Blockchain Enthusiast
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Master of Computer Applications (MCA) student  
+- 🔭 Master of Computer Applications (MCA) graduate 
 - 🌱 Currently learning **Full Stack Development** (Next.js, React.js, Prisma, PostgreSQL, MongoDB)  
 - 🧑‍💻 Experience as a **Software Developer**  
-- 🎯 Working on: [AI Powered Productivity App](https://github.com/nirban256/ai_powered_productivity_app)  
 - ⚡ Passionate about **AI, Blockchain, and Scalable Systems**
 
 ---
